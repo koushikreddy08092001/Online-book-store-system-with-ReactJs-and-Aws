@@ -1,2 +1,2 @@
 ### Github Repo
-https://github.com/mjzone/bookstore-v2
+https://github.com/koushikreddy08092001/Online-book-store-system-with-ReactJs-and-Aws.git
